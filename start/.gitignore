@@ -87,3 +87,6 @@ appsettings.json
 # TypeScript output
 dist
 out
+
+# connection strings & secrets
+local.settings.json
